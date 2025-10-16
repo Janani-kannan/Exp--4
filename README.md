@@ -47,3 +47,5 @@ To study the problem statement ,SRS document and draw the UML diagram of hospita
 
 # RESULT:
 
+Thus the UML diagrams are created successfully
+
